@@ -12,7 +12,7 @@
   <h3 align="center">Pemrograman GUI</h3>
 
   <p align="center">
-    RohmanBenyRiyanto|19104060|S1SE03-B
+    RohmanBenyRiyanto | 19104060 | S1SE03-B
     <br />
     <a href="https://github.com/RohmanBenyRiyanto/UTS-Pemrograman-GUI"><strong>Lihat Jawaban »</strong></a>
     <br />
