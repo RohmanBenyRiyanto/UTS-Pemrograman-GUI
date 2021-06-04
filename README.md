@@ -6,7 +6,8 @@
   <a href="https://github.com/RohmanBenyRiyanto/UTS-Pemrograman-GUI">
     <img src="images/logo.png" alt="Logo" width="130" height="130">
   </a>
-
+  
+  <h3 align="center">IT Telkom Purwokerto</h3>
   <h3 align="center">UJIAN TENGAH SEMSTER</h3>
   <h3 align="center">Pemrograman GUI</h3>
 
