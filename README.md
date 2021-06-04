@@ -1,4 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -88,7 +87,7 @@ Pada Program tersebut terdapat kesalahan indentasi pada line 16,untuk memperbaik
 
 <img src="https://user-images.githubusercontent.com/72520643/120772313-62c10200-c54a-11eb-9bb5-0dd350843c8d.png">
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/RohmanBenyRiyanto/UTS-Pemrograman-GUI/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rohman-beny-0432921a7/
