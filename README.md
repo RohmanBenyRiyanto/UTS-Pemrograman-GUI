@@ -1,35 +1,42 @@
+
 # UTS-Pemrograman-GUI
 
 Nama  : Rohman Beny Riyanto
+
 NIM   : 19104060
+
 Kelas : S1SE03B
 
-**UTS PEMROGRAMAN GUI**
 
-Penjelasan :
-
-
+## Penjelasan :
 **1. GUI Data Mahasiswa**
 
-**Preview :**
+* Preview :
 
-![Desain Layout GUI](https://user-images.githubusercontent.com/72520643/120766081-1246a600-c544-11eb-815d-4addfa674504.png)
+<img src="https://user-images.githubusercontent.com/72520643/120766081-1246a600-c544-11eb-815d-4addfa674504.png" width="416" height="465">
 
-**Tambah Data**
+* Tambah Data
 
-![Desain Layout GUI 2](https://user-images.githubusercontent.com/72520643/120766157-25f20c80-c544-11eb-8cfd-cdf9af2cc2fa.png)
+<img src="https://user-images.githubusercontent.com/72520643/120766157-25f20c80-c544-11eb-8cfd-cdf9af2cc2fa.png" width="416" height="465">
 
-**Edit Data**
+* Edit Data
 
-![Desain Layout GUI 3](https://user-images.githubusercontent.com/72520643/120766205-31453800-c544-11eb-9005-51ecdb75ddef.png)
-
-![Desain Layout GUI 3 1](https://user-images.githubusercontent.com/72520643/120766230-3609ec00-c544-11eb-961c-b43bba2a650f.png)
-
-**Clear dan Hapus**
-
-![Desain Layout GUI 4](https://user-images.githubusercontent.com/72520643/120766265-40c48100-c544-11eb-869a-7560118d3a5e.png)
+<img src="https://user-images.githubusercontent.com/72520643/120771717-b97a0c00-c549-11eb-9332-5477024d1edf.png" width="532" height="360">
 
 
-**No 2. **
+<img src="https://user-images.githubusercontent.com/72520643/120772057-15dd2b80-c54a-11eb-9b33-f4efe0b70826.png" width="416" height="465">
 
-Pada Codingan tersebut terdapat kesalahan indentasi pada line 16, perlu dihapus untuk indentasi pada line 16 agar bisa berjalan dengan baik
+
+* Clear dan Hapus
+
+<img src="https://user-images.githubusercontent.com/72520643/120766265-40c48100-c544-11eb-869a-7560118d3a5e.png" width="416" height="465">
+
+
+**2. Identifikasi**
+
+<img src="https://user-images.githubusercontent.com/72520643/120769329-3788e380-c547-11eb-9c15-daa7754d1b85.png" width="542" height="492">
+
+Pada Program tersebut terdapat kesalahan indentasi pada line 16,untuk memperbaiki perlu dihapus untuk indentasi pada line 16 agar bisa berjalan dengan baik
+
+<img src="https://user-images.githubusercontent.com/72520643/120772313-62c10200-c54a-11eb-9bb5-0dd350843c8d.png">
+
